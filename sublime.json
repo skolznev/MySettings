@@ -1,9 +1,39 @@
+// SMILES for coding
+
+// (=^_^=) - остановился тут
+
+// ლ(ಠ_ಠ ლ) - в замешательстве
+
+// (╯°□°)╯ ┻━━┻ - рефакторинг/удаление
+
+// (ノ ˘_˘)ノ .･.･:★ - костыль/магия
+
+
+// EXTENSIONS in work
+
+// "FileIcons",
+// "MarkdownPreview",
+// "Package Control",
+// "PackageResourceViewer",
+// "Rainbowth"
+// "A File Icon" вместо FileIcons
+// ERB-Sublime-Snippets
+
+
+ // SUBLIME settings
+
 {
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
 	"draw_white_space": "all", // Show spaces
-	"font_size": 10,
-	"ignored_packages":
+	"font_size": 11,
+	// "ignored_packages":
+	// [
+	// 	"Vintage"
+	// ],
+	"rulers": // Vertical line
 	[
-		"Vintage"
+	79
 	]
 
 }
